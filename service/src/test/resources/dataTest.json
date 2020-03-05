@@ -1,0 +1,44 @@
+[
+  {
+    "model": "AUDI",
+    "price": 150000,
+    "color": "GREEN",
+    "mileage": 95000,
+    "components": [
+      "MASSAGE ARMCHAIRS",
+      "PLAYERS DVD"
+    ]
+  },
+  {
+    "model": "CITROEN",
+    "price": 200000,
+    "color": "GREEN",
+    "mileage": 10000,
+    "components": [
+      "MASSAGE ARMCHAIRS",
+      "PLAYERS DVD"
+    ]
+  },
+  {
+    "model": "CITROEN",
+    "price": 60000,
+    "color": "WHITE",
+    "mileage": 80000,
+    "components": [
+      "GPS",
+      "MASSAGE ARMCHAIRS",
+      "HEATED STEERING WHEEL",
+      "AUTOMATIC TRANSMISSION"
+    ]
+  },
+  {
+    "model": "SKODA",
+    "price": 90000,
+    "color": "BLUE",
+    "mileage": 60000,
+    "components": [
+      "AIR CONDITIONING",
+      "PARKING SUPPORT"
+    ]
+  }
+]

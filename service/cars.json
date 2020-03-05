@@ -1,0 +1,84 @@
+[
+  {
+    "model": "AUDI",
+    "price": 626597,
+    "color": "WHITE",
+    "mileage": 94639,
+    "components": [
+      "MASSAGE ARMCHAIRS",
+      "PLAYERS DVD"
+    ]
+  },
+  {
+    "model": "FORD",
+    "price": 206417,
+    "color": "BLUE",
+    "mileage": 10587,
+    "components": [
+      "MASSAGE ARMCHAIRS",
+      "PLAYERS DVD"
+    ]
+  },
+  {
+    "model": "CITROEN",
+    "price": 58013,
+    "color": "WHITE",
+    "mileage": 79619,
+    "components": [
+      "MASSAGE ARMCHAIRS",
+      "PARKING SUPPORT"
+    ]
+  },
+  {
+    "model": "SKODA",
+    "price": 584468,
+    "color": "BLUE",
+    "mileage": 60247,
+    "components": [
+      "AIR CONDITIONING",
+      "PARKING SUPPORT"
+    ]
+  },
+  {
+    "model": "CITROEN",
+    "price": 93243,
+    "color": "BLUE",
+    "mileage": 25820,
+    "components": [
+      "AUTOMATIC TRANSMISSION",
+      "AIR CONDITIONING"
+    ]
+  },
+  {
+    "model": "SKODA",
+    "price": 694051,
+    "color": "BLACK",
+    "mileage": 82116,
+    "components": [
+      "PARKING SUPPORT",
+      "GPS"
+    ]
+  },
+  {
+    "model": "VOLKSWAGEN",
+    "price": 701479,
+    "color": "BLACK",
+    "mileage": 1961,
+    "components": [
+      "PARKING SUPPORT",
+      "PLAYERS DVD"
+    ]
+  },
+  {
+    "model": "CITROEN",
+    "price": 239949,
+    "color": "BLACK",
+    "mileage": 61097,
+    "components": [
+      "GPS",
+      "MASSAGE ARMCHAIRS",
+      "HEATED STEERING WHEEL",
+      "AUTOMATIC TRANSMISSION"
+    ]
+  }
+]

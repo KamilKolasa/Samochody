@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a7c2038-259b-40df-88c8-e22d0eccae4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="115" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YIdPTwPzzn3MWZlGWY3eL8K38D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575990788098" />
+    <property name="jdk.selected.JAVA_MODULE" value="12" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\S-Programowanie\IntelliJ IDEA\Projekty\0_01_SAMOCHODY_multimodule" />
+      <recent name="D:\S-Programowanie\IntelliJ IDEA\Projekty\0_01_SAMOCHODY_multimodule\random" />
+      <recent name="D:\S-Programowanie\IntelliJ IDEA\Projekty\0_01_SAMOCHODY_multimodule\conventerss\src\main\java" />
+      <recent name="D:\S-Programowanie\IntelliJ IDEA\Projekty\0_01_SAMOCHODY_multimodule\conventer\src\main\java\com\app\conventers" />
+      <recent name="D:\S-Programowanie\IntelliJ IDEA\Projekty\0_01_SAMOCHODY_multimodule\conventers\src\main\java\com.app.conventers" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.app.validation" />
+      <recent name="com.app.random" />
+      <recent name="com.app.exceptions" />
+      <recent name="com.app.main" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\S-Programowanie\IntelliJ IDEA\Projekty\0_01_SAMOCHODY_multimodule\service\src\test\resources" />
+      <recent name="D:\S-Programowanie\IntelliJ IDEA\Projekty\0_01_SAMOCHODY_multimodule\service\src\test\java\com\app" />
+      <recent name="D:\S-Programowanie\IntelliJ IDEA\Projekty\0_01_SAMOCHODY_multimodule\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestCarsService">
+    <configuration name="TestCarsService" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app" />
+      <option name="MAIN_CLASS_NAME" value="com.app.TestCarsService" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCarsService.colorCar1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app" />
+      <option name="MAIN_CLASS_NAME" value="com.app.TestCarsService" />
+      <option name="METHOD_NAME" value="colorCar1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCarsService.minMileage2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app" />
+      <option name="MAIN_CLASS_NAME" value="com.app.TestCarsService" />
+      <option name="METHOD_NAME" value="minMileage2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCarsService.price3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app" />
+      <option name="MAIN_CLASS_NAME" value="com.app.TestCarsService" />
+      <option name="METHOD_NAME" value="price3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCarsService.sort1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.app" />
+      <option name="MAIN_CLASS_NAME" value="com.app.TestCarsService" />
+      <option name="METHOD_NAME" value="sort1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestCarsService" />
+        <item itemvalue="JUnit.TestCarsService.price3" />
+        <item itemvalue="JUnit.TestCarsService.colorCar1" />
+        <item itemvalue="JUnit.TestCarsService.sort1" />
+        <item itemvalue="JUnit.TestCarsService.minMileage2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a7c2038-259b-40df-88c8-e22d0eccae4d" name="Default Changelist" comment="" />
+      <created>1568652008025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568652008025</updated>
+      <workItem from="1568652011970" duration="2347000" />
+      <workItem from="1568654381536" duration="739000" />
+      <workItem from="1568706756175" duration="203000" />
+      <workItem from="1568723450131" duration="709000" />
+      <workItem from="1570118993028" duration="2016000" />
+      <workItem from="1570532950960" duration="3000" />
+      <workItem from="1570532976362" duration="1187000" />
+      <workItem from="1570808812426" duration="219000" />
+      <workItem from="1571147457445" duration="881000" />
+      <workItem from="1571148532166" duration="46000" />
+      <workItem from="1571404067403" duration="431000" />
+      <workItem from="1571406538338" duration="224000" />
+      <workItem from="1572362252557" duration="1281000" />
+      <workItem from="1575913373419" duration="5314000" />
+      <workItem from="1575979542965" duration="3844000" />
+      <workItem from="1582634019518" duration="648000" />
+      <workItem from="1582638114770" duration="5362000" />
+      <workItem from="1582643555172" duration="731000" />
+      <workItem from="1582647007039" duration="327000" />
+      <workItem from="1582734045275" duration="8500000" />
+      <workItem from="1582743661972" duration="3000" />
+      <workItem from="1583078454701" duration="1022000" />
+      <workItem from="1583135774815" duration="1241000" />
+      <workItem from="1583247627065" duration="835000" />
+      <workItem from="1583252339597" duration="724000" />
+      <workItem from="1583307153440" duration="1069000" />
+      <workItem from="1583396893726" duration="232000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582738203359">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582738203359" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1583253065027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583253065027" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1583253065027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583253065027" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1583253065027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583253065027" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1583253065027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1583253065027" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/0_01_SAMOCHODY_multimodule$TestCarsService_componentCar1.ic" NAME="TestCarsService.componentCar1 Coverage Results" MODIFIED="1582736511001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/0_01_SAMOCHODY_multimodule$TestCarsService_price3.ic" NAME="TestCarsService.price3 Coverage Results" MODIFIED="1582634295169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.app.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/0_01_SAMOCHODY_multimodule$TestCarsService.ic" NAME="TestCarsService Coverage Results" MODIFIED="1582743002663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.app.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.8.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

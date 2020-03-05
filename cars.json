@@ -1,0 +1,36 @@
+[
+  {
+    "model": "VOLKSWAGEN",
+    "price": 316063,
+    "color": "WHITE",
+    "mileage": 85231,
+    "components": [
+      "GPS",
+      "RADIO",
+      "MASSAGE ARMCHAIRS"
+    ]
+  },
+  {
+    "model": "BMW",
+    "price": 157910,
+    "color": "GREEN",
+    "mileage": 71677,
+    "components": [
+      "MASSAGE ARMCHAIRS",
+      "PARKING SUPPORT",
+      "ABS",
+      "PLAYERS DVD"
+    ]
+  },
+  {
+    "model": "FORD",
+    "price": 781007,
+    "color": "GREEN",
+    "mileage": 65426,
+    "components": [
+      "PARKING SUPPORT",
+      "AIR CONDITIONING",
+      "RADIO"
+    ]
+  }
+]

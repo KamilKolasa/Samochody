@@ -1,0 +1,34 @@
+[
+  {
+    "model": "OPEL",
+    "price": 706614,
+    "color": "WHITE",
+    "mileage": 50381,
+    "components": [
+      "PLAYERS DVD",
+      "PARKING SUPPORT",
+      "ALARM"
+    ]
+  },
+  {
+    "model": "SKODA",
+    "price": 406905,
+    "color": "GREEN",
+    "mileage": 13428,
+    "components": [
+      "ALARM",
+      "ABS"
+    ]
+  },
+  {
+    "model": "FORD",
+    "price": 437400,
+    "color": "BLUE",
+    "mileage": 88744,
+    "components": [
+      "ABS",
+      "GPS",
+      "AUTOMATIC TRANSMISSION"
+    ]
+  }
+]

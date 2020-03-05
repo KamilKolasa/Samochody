@@ -1,0 +1,4 @@
+com\app\model\Car.class
+com\app\model\SortCriterium.class
+com\app\model\Colors.class
+com\app\model\Car$CarBuilder.class
